@@ -5,6 +5,15 @@
 
 </div>
 
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gracelove91.tistory.com)](https://gracelove91.tistory.com)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100039157392742)](https://www.facebook.com/profile.php?id=100039157392742)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/grace_love.91/)](https://www.instagram.com/grace_love.91/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:govlmo91@gmail.com)](mailto:govlmo91@gmail.com)
+
+</div>
+
 ## Eunmo Hong
 - Spring Boot, JPA를 사용해 개발하는 것을 즐깁니다.
 - GraceLove(그럽) 이라 불리는 걸 좋아합니다
@@ -26,11 +35,3 @@
 </div>
 
 
-<div align=center>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gracelove91.tistory.com)](https://gracelove91.tistory.com)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100039157392742)](https://www.facebook.com/profile.php?id=100039157392742)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/grace_love.91/)](https://www.instagram.com/grace_love.91/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:govlmo91@gmail.com)](mailto:govlmo91@gmail.com)
-
-</div>
