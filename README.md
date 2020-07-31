@@ -26,7 +26,8 @@
 - JPA
 - Clean code
 - Refactoring
-- ...
+- Test
+- ....
 
 <div align=center>
 	
