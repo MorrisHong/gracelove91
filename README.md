@@ -19,6 +19,7 @@
 - GraceLove(그럽) 이라 불리는 걸 좋아합니다
 - 커뮤니티에서 개발자들과 수다떠는 걸 좋아합니다
 - 노력하는 범재는 게으른 천재를 이길 수 있다고 생각합니다
+- KakaoTalk(https://open.kakao.com/o/sqEqBlJb)
 
 
 ## Interest
